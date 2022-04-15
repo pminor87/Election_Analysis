@@ -34,7 +34,7 @@ The purpose of the analysis is to find:
 ![Election Results Analysis](https://github.com/pminor87/Election_Analysis/blob/main/Resources/Images/Election%20Results%20Analysis.PNG)
 
 ## Election-Audit Summary
-The python script used to execute the election results for the State of Colorado can also be used for other elections with some small modifications:
+- The python script used to execute the election results for the State of Colorado can also be used for other elections with some small modifications:
 	- "file_to_load and file_to_save = os.path.join("", "")" would need to be modified based off the file name and location.
 	- If the csv file is formatted differently then we would need to modify candidate_name = row[2] to look for the candidate name from row 3 to the proper row. The same would go for county = row[1].
 
