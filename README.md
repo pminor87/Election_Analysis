@@ -31,7 +31,7 @@ The purpose of the analysis is to find:
 	- Winning Vote Count: 272,892
 	- Winning Percentage: 73.8%
 	
-![Election Results Analysis](https://github.com/pminor87/Election_Analysis/blob/main/Resources/Images/Election%20Results%20Analysis.PNG)
+										![Election Results Analysis](https://github.com/pminor87/Election_Analysis/blob/main/Resources/Images/Election%20Results%20Analysis.PNG)
 
 ## Election-Audit Summary
 The python script used to execute the election results for the State of Colorado can also be used for other elections with some small modifications:
